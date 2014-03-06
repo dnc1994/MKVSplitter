@@ -4,7 +4,7 @@ MKVSplitter is a small script, which harnesses ffprobe and ffmpeg to automatical
 
 Usage
 -----
-Make sure that the script and the MKV file (also ffprobe.exe and ffmpeg.exe for Windows)
+Make sure that the script and the MKV file are in the same folder (also ffprobe.exe and ffmpeg.exe for Windows)
 Then just run MKVSplitter.py
 
 Author
