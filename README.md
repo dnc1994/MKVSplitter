@@ -9,8 +9,7 @@ Then just run MKVSplitter.py
 
 Author
 ------
-Zhang Ling Hao, Fudan University.
-Contact me: zlhdnc1994@gmail.com
+[Linghao Zhang](mailto:linghaozh@gmail.com)
 
 Requirements
 ------------
