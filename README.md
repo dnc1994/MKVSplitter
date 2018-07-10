@@ -7,10 +7,6 @@ Usage
 Make sure that the script and the MKV file are in the same folder (also ffprobe.exe and ffmpeg.exe for Windows)
 Then just run MKVSplitter.py
 
-Author
-------
-[Linghao Zhang](mailto:linghaozh@gmail.com)
-
 Requirements
 ------------
 Python 3 and ffmpeg
@@ -22,3 +18,7 @@ To-do list
 - Deal with illegitimate filenames.
 - Fix issues about paths and introduce clean-up to make it tidier.
 - (Maybe) Write a GUI.
+
+Author
+------
+[Linghao Zhang](mailto:linghaozh@gmail.com)
